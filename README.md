@@ -9,7 +9,7 @@ Language used: C language
 Competences achieved:
   - Manipulation of TOVĈ file structure
   - Manipulation of TOVC file structure
-  - Manipulation of TOV file structure
+  - Manipulation of TØF file structure
   - Manipulation of TOF  file structure
   - Index manipulation
   
