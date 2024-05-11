@@ -12,7 +12,3 @@ Competences achieved:
   - Manipulation of TOF  file structure
   - Manipulation of Text files
   - Index manipulation
-  
-Contributors:
-  - Khaled BENMACHICHE
-  - Cerine BAZOULA
