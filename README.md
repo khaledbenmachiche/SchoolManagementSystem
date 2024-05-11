@@ -2,9 +2,9 @@
 
 Type: Project (TP)
 
-Theme: manipulating File structures and Data Structures
+Theme: Manipulating File structures and Data Structures
 
-Language used: C language
+Language: C 
 
 Competences achieved:
   - Manipulation of TOVC file structure
